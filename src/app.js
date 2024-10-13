@@ -1,3 +1,6 @@
+import * as Leaflet from 'leaflet';
+ 
+console.log(Leaflet);
 import Leaflet from 'leaflet'; // import everything from leaflet
 import 'leaflet/dist/leaflet.css'; // import leaflet css
  
